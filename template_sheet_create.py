@@ -1,5 +1,4 @@
 from discord.ext.commands import command
-import discord
 import resurgence
 import Spell_book as sb
 
